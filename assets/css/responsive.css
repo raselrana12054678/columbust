@@ -1,0 +1,579 @@
+
+@media(min-width: 1200px) and (max-width: 1500px) {
+    button {
+        width: 100%;
+        margin: 15px 0;
+    }
+    /* .lobin-items {
+        top: 123%;
+    } */
+    .img-content {
+        padding-bottom: 10px;
+    }
+    .Lublin-content h2 {
+        padding-top: 20%;
+    }
+    .Lublin-content p {
+        font-size: 15px;
+    }
+    .Fotowotlaika-content p {
+        font-size: 15px;
+    }
+    .Fotowotlaika-wrapper h2 {
+        padding-bottom: 28px;
+    }
+    .PowerHouse-wrapper p {
+        font-size: 15px;
+    }
+    .Lublin-content h2 {
+        padding-top: 13%;
+    }
+}
+@media(min-width: 992px) and (max-width: 1200px) {
+    .lobin-items h1 {
+        font-size: 38px;
+    }
+    .lobin-items h2 {
+        font-size: 20px;
+    }
+    button {
+        width: 100%;
+        margin: 10px 0;
+    }
+    .content-wrap h1 {
+        font-size: 25px;
+    }
+    .img-content {
+        padding-bottom: 10px;
+        padding-right: 0;
+    }
+    .Fotowotlaika-wrapper h2 {
+        padding-bottom: 10px;
+    }
+    .Fotowotlaika-content p {
+        font-size: 14px;
+    }
+    .Lublin-content p {
+        font-size: 12px;
+    }
+    .power-title h1 {
+        font-size: 30px;
+    }
+    .PowerHouse-wrapper p {
+        font-size: 14px;
+    }
+    .house-items {
+        padding-bottom: 20px;
+    }
+    .powerhouse-wrapper {
+        padding: 15px 32px;
+    }
+    .items1 h1 {
+        font-size: 30px;
+    }
+    .list-area li {
+        font-size: 13px;
+    }
+    .Nawet-image h1 {
+        font-size: 28px;
+    }
+    .Nawet-image p {
+        font-size: 15px;
+        padding-right: 0%;
+    }
+    .fotowol-items h1 {
+        font-size: 30px;
+    }
+    p {
+        font-size: 14px;
+    }
+    .Nawet-content h1 {
+        font-size: 30px;
+    }
+    .Nawet-content h2 {
+        font-size: 20px;
+    }
+    .Nawet-content p {
+        font-size: 13px;
+        padding-left: 0;
+    }
+    .Nawet-content span {
+        font-size: 14px;
+    }
+    .Columbus-content h1 {
+        font-size: 25px;
+    }
+    .Columbus-content h2 {
+        font-size: 18px;
+    }
+    .Columbus-content p {
+        font-size: 14px;
+    }
+    .Zerowa-content h1 {
+        font-size: 28px;
+    }
+    .items2-content h2 {
+        font-size: 18px;
+    }
+    .items2-content h2 span {
+        font-size: 19px;
+    }
+    /* .items2-content h2 {
+        padding-left: 20px;
+    } */
+    .p-wrap span {
+        font-size: 13px;
+    }
+    .p-wrap p {
+        font-size: 15px;
+    }
+    .h5, h5 {
+        padding-bottom: 20px;
+    }
+    /* .items2 img {
+        padding-left: 29px;
+    } */
+    .Lublin-content h2 {
+        padding-top: 13%;
+    }
+    .Lublin-content h2 {
+        padding-top: 13%;
+    }
+    #_ptr-main-00 #_ptr-main-01 ._ptr-d-prop_font-size-24 {
+        font-size: 20px;
+    }
+}
+@media(min-width: 768px) and (max-width: 992px) {
+    .lobin-items h1 {
+        font-size: 30px;
+        letter-spacing: 1.4px;
+    }
+    .lobin-items h2 {
+        font-size: 19px;
+    }
+    .form-area input {
+        width: 64%;
+    }
+    button {
+        width: 100%;
+        margin: 10px 0;
+    }
+    .lobin-items {
+        top: 100%;
+    }
+    .image-content h5 {
+        font-size: 13px;
+    }
+    .content-wrap h1 {
+        font-size: 15px;
+        text-align: center;
+        margin: auto;
+    }
+    .img-content {
+        padding-right: 0%;
+        padding-bottom: 5px;
+    }
+    .align-items-center {
+        align-items: flex-center!important;
+    }
+    .Lublin-content p {
+        font-size: 9px;
+        line-height: 14px;
+        padding-left: 10%;
+        padding-right: 10%;
+    }
+    .Fotowotlaika-wrapper h2 {
+    font-size: 20px;
+    padding-bottom: 10px;
+}
+.Fotowotlaika-content p span {
+    font-size: 12px;
+    color: #232323;
+}
+.Fotowotlaika-content p {
+    font-size: 13px;
+    padding-right: 0%;
+}
+.Lublin-content h2 {
+    font-size: 20px;
+    padding-top: 31%;
+    padding-left: 10%;
+}
+.Fotowotlaika-Lublin {
+    background-position: center;
+}
+.power-title h1 {
+    font-size: 20px;
+}
+.PowerHouse-wrapper p {
+    font-size: 14px;
+    padding-right: 0%;
+}
+.powerhouse-wrapper {
+    padding: 60px 17px;
+}
+.items1 h1 {
+    font-size: 20px;
+}
+.list-area li {
+    font-size: 14px;
+}
+.Nawet-image h1 {
+    font-size: 28px;
+}
+.Nawet-image p {
+    font-size: 14px;
+    padding-right: 0%;
+}
+.fotowol-items h1 {
+    padding-bottom: 16px;
+    font-size: 24px;
+}
+.Nawet-content h1 {
+    font-size: 28px;
+    padding-bottom: 20px;
+}
+.Nawet-content h2 {
+    font-size: 18px;
+    padding-bottom: 25px;
+    padding-right: 0%;
+}
+.Nawet-content span {
+    font-size: 14px;
+}
+.Nawet-content {
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+.Columbus-content h1 {
+    font-size: 23px;
+    letter-spacing: 1.4px;
+    padding-bottom: 12px;
+}
+.Columbus-content h2 {
+    font-size: 20px;
+    padding-right: 0%;
+    padding-bottom: 4px;
+}
+.Columbus-content p {
+    font-size: 15px;
+    padding-right: 0%;
+}
+.Zerowa-area {
+    background-position: center;
+    background-size: cover;
+}
+.h1, h1 {
+    font-size: 20px;
+}
+.od-real {
+    padding: 15px 14px;
+}
+.items2-content h2 {
+    font-size: 14px;
+    padding-left: 5px;
+}
+.items2-content h2 span {
+    font-size: 15px;
+}
+.Magazyn-items {
+    padding: 15px 3px;
+    margin-right: 10px;
+}
+.p-wrap span {
+    font-size: 15px;
+}
+.Otrzymaj-wrapp {
+    width: 727px;
+}
+}
+@media (min-width: 425px) and (max-width: 768px) {
+    form {
+        margin-top: 52%;
+    }
+    .form-area input {
+        width: 74%;
+    }
+    button {
+        width: 99%;
+        margin: 10px;
+    }
+    .image-content h5 span {
+        font-size: 11px;
+        line-height: 122.5px;
+    }
+    .image-items {
+        margin-top: -22%;
+    }
+    .content-wrap h1 {
+        font-size: 22px;
+    }
+    .Fotowotlaika-Lublin {
+        background-position: right;
+    }
+    .Fotowotlaika-content p span {
+        color: #ddd;
+    }
+    .Fotowotlaika-wrapper h2 {
+        color: #ddd;
+    }
+    .Lublin-content h2 {
+        padding-top: 30%;
+        padding-left: 6%;
+    }
+    .Lublin-content p {
+        font-size: 11px;
+        line-height: 19px;
+        padding-left: 6%;
+        padding-right: 0%;
+    }
+    .Fotowotlaika-content p {
+        color: #ddd;
+    }
+    .Lublin-content p {
+        padding-bottom: 81px;
+    }
+    .power-title h1 {
+        font-size: 26px;
+        padding-right: 5%;
+    }
+    .PowerHouse-wrapper p {
+        padding-right: 3%;
+        padding-left: 3%;
+    }
+    .powerhouse-wrapper {
+        padding: 60px 12px;
+            margin-right: 3px;
+            margin-left: 3px;
+    }
+    .list-area li {
+        font-size: 13px;
+    }
+    .Nawet-image h1 {
+        font-size: 26px;
+    }
+    .Nawet-image {
+        margin-left: 3px;
+    }
+    .Nawet-image p {
+        font-size: 11px;
+    }
+    .Nawet-content h2 {
+        font-size: 19px;
+    }
+    .Nawet-content {
+        margin-left: 3px;
+    }
+    .Nawet-content {
+        margin-left: 3px;
+        margin-bottom: 35px;
+    }
+    .Columbus-content h1 {
+        font-size: 23px;
+    }
+    .Columbus-content h2 {
+        font-size: 18px;
+        margin-left: 3px;
+        color: #ddd;
+    }
+    .Columbus-content p {
+        font-size: 15px;
+        color: #ddd;
+        padding-right: 0%;
+        margin-left: 3px;
+    }
+    .od-real {
+        padding: 15px 18px;
+    }
+    .items2-content h2 {
+        font-size: 19px;
+        padding-left: 12px;
+    }
+    .items2-content h2 span {
+        font-size: 19px;
+    }
+    .Magazyn-items {
+        padding: 15px 16px;
+        margin-right: 3px;
+        margin-left: 3px;
+    }
+    .items2-content h2 {
+        font-size: 16px;
+        padding-left: 12px;
+    }
+ }
+@media(min-width: 375px) and (max-width: 425px) {
+    .Otrzymaj-wrapp {
+        width: 352px;
+        padding: 60px 0px;
+    }
+    form {
+        margin-top: 89%;
+    }
+    .lobin-items {
+        top: 45%;
+    }
+    .lobin-items h2 {
+        font-size: 25px;
+    }
+    .form-area input {
+        width: 68%;
+    }
+    p {
+        margin-top: 16px;
+    }
+    button {
+        width: 98%;
+    }
+    .image-items {
+        margin-top: 0%;
+    }
+    .img-wrap {
+        padding-bottom: 20px;
+    }
+    .content-wrap h1 {
+        font-size: 20px;
+        padding-bottom: 14px;
+    }
+    .img-content {
+        padding-bottom: 9px;
+        padding-right: 0%;
+    }
+    .Fotowotlaika-wrapper h2 {
+        padding-bottom: 0px;
+    }
+    .Fotowotlaika-content p {
+        padding-right: 0%;
+        color: #ddd;
+    }
+    .Fotowotlaika-content p span {
+        color: #ddd;
+    }
+    .Lublin-content p {
+        font-size: 13px;
+        padding-left: 3%;
+        padding-right: 0%;
+    }
+    .Lublin-content {
+        padding-top: 51px;
+        padding-bottom: 63px;
+    }
+    .Lublin-content h2 {
+        padding-left: 3%;
+    }
+    .Fotowotlaika-wrapper h2 {
+        color: #fff;
+    }
+    .power-title h1 {
+        font-size: 20px;
+        padding-right: 9%;
+        padding-bottom: 8px;
+    }
+    .PowerHouse-wrapper p {
+        font-size: 14px;
+        color: #fff;
+        padding-right: 0%;
+    }
+    .powerhouse-wrapper {
+        padding: 60px 10px;
+    }
+    .items1 h1 {
+        font-size: 24px;
+    }
+    .list-area li {
+        font-size: 13px;
+    }
+    .Nawet-image h1 {
+        font-size: 21px;
+    }
+    .Nawet-image p {
+        font-size: 14px;
+        padding-right: 0%;
+    }
+    .fotowol-items h1 {
+        font-size: 20px;
+    }
+    .fotowol-items p {
+        padding-right: 0%;
+    }
+    .fotowlter-wrap h2 {
+        padding-bottom: 0px;
+    }
+    .Nawet-content h1 {
+        font-size: 27px;
+    }
+    .Nawet-content h2 {
+        font-size: 16px;
+        padding-bottom: 20px;
+        padding-right: 0%;
+    }
+    .Nawet-content p {
+        font-size: 13px;
+        padding-bottom: 0px;
+    }
+    .Nawet-content span {
+        font-size: 13px;
+        padding-bottom: 30px;
+    }
+    .Columbus-content h1 {
+        font-size: 20px;
+        padding-bottom: 5px;
+    }
+    .Columbus-content h2 {
+        font-size: 16px;
+        padding-right: 0%;
+        padding-bottom: 0px;
+    }
+    .Columbus-content p {
+        font-size: 14px;
+        color: #fff;
+        padding-right: 0%;
+    }
+    .Zerowa-area {
+        background-position: center;
+        /* background-size: contain; */
+    }
+    .h1, h1 {
+        font-size: 17px;
+    }
+    p {
+        font-size: 15px;
+    }
+    .od-real {
+        padding: 15px 13px;
+        margin-left: 1px;
+        margin-bottom: 20px;
+    }
+    .items2-content h2 {
+        font-size: 11px;
+        padding-left: 5px;
+    }
+    .items2-content h2 span {
+        font-size: 12px;
+    }
+    .p-wrap span {
+        font-size: 14px;
+        line-height: 0px;
+    }
+    .p-wrap p {
+        font-size: 14px;
+        line-height: 22px;
+    }
+    .Magazyn-items {
+        padding: 15px 10px;
+        margin-right: 10px;
+    }
+    .h2, h2 {
+        font-size: 20px;
+    }
+    p {
+        font-size: 12px;
+        padding: 0 37px;
+    }
+    .f-logo span {
+        padding-left: 13px;
+    }
+    .align-items-center {
+        padding-top: 16px;
+    }
+}
